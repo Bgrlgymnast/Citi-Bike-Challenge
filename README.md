@@ -53,6 +53,8 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 - Ensure your presentation is professional, logical, and visually appealing.
 
 ## References
+- Link used for data https://s3.amazonaws.com/tripdata/index.html (202406-citibike-tripdata_1)
+
 - https://help.tableau.com/current/pro/desktop/en-us/functions.htm
 
 - Tutor/Teacher/TA
